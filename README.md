@@ -7,7 +7,7 @@ Zhibek:
 You are on this task!
 
 2) Find the duplicates!
-You are given passwords2.txt file as input. Each row corresponds to a string of 20 characters. Define a hash function that associates a value to each string. In this case, the goal is to check whether there are some duplicate strings. Our definition of duplicate is that the two strings have the same characters, order is not important. Thus, "AABA" = "AAAB".
+You are given passwords2.txt file as input    (here : https://drive.google.com/file/d/1wTmOU-yqk4qdQYg42AquhzgpNGrRA96d/view ). Each row corresponds to a string of 20 characters. Define a hash function that associates a value to each string. In this case, the goal is to check whether there are some duplicate strings. Our definition of duplicate is that the two strings have the same characters, order is not important. Thus, "AABA" = "AAAB".
 
 
 There are 3 steps that you need to perform:
