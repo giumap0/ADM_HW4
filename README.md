@@ -34,7 +34,7 @@ You will implement two clustering and compare the results you get. You will need
 
 **Scraping**  <----at the moment we are at this step
 
-##**NEWS!!!**
+#{**NEWS!!!**}
 
 I JUST UPLOADED THE FIRST JUPYTER FILE. I AM STARTING WRITING THE CODE FOR SCRAPING, WHAT I WROTE IT'S NOTHING, IT'S JUST TO HAVE A FIRST STEP FILE. FOR THE SCRAPING I FOUND THIS SITE WHICH LOOKS REALLY HELPFUL. I WILL TRY TO USE IT : https://medium.com/@ben.sturm/scraping-house-listing-data-using-selenium-and-beautiful-soup-1cbb94ba9492 
 
