@@ -38,6 +38,12 @@ You will implement two clustering and compare the results you get. You will need
 
 I JUST UPLOADED THE FIRST JUPYTER FILE. I AM STARTING WRITING THE CODE FOR SCRAPING, WHAT I WROTE IT'S NOTHING, IT'S JUST TO HAVE A FIRST STEP FILE. FOR THE SCRAPING I FOUND THIS SITE WHICH LOOKS REALLY HELPFUL. I WILL TRY TO USE IT : https://medium.com/@ben.sturm/scraping-house-listing-data-using-selenium-and-beautiful-soup-1cbb94ba9492 
 
+maybe this site is better:
+
+https://www.scrapehero.com/how-to-scrape-real-estate-listings-on-zillow-com-using-python-and-lxml/
+
+because it shows the csv file
+
 VALERIO IF YOU WANT YOU CAN LOOK AT IT AND TELL ME WHAT YOU THINK.
 
 This time, you must create your dataset. The website that you will scrape is: here. In particular, you should retrieve at least 10k announcements starting from this link. The information that you need to extract is explained afterwords. Remember, whenever you have text to work on, do some pre-processing. Use the Beautiful Soup library to parse the html. 
