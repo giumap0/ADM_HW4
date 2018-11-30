@@ -54,6 +54,10 @@ Datasets
 1) Information
 The first matrix will have this format:  where  and . n is the number of the announcements. It's possible that not all the announcements will have all the fields mentioned above, if it's the case don't take it into account. (look at cristina's file)
 
+annuncio (raw)
+
+prezzo, locali, superficie , bagni, piano (columns)
+
 
 2) Description
 The second matrix will have this format:  where  and . n is the number of the announcements and m is the cardinality of the vocabulary. This time, you must implement the Tf-Idf by yourself (not with libraries). Make sure to use the complete description inside the link of the announcement: example. (look at cristina's file)
