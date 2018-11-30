@@ -2,7 +2,9 @@
 Hello everyone!!
 So this is our repository!! 
 For now, as said today in whatsapp:
-Zhibek:
+
+
+**Zhibek**:
  
 You are on this task!
 
@@ -24,15 +26,15 @@ Does it happen that two strings with different characters are hashed to the same
 Now do the same thing as before, but now the order of the characters must be put into account. Example: "AABA" != "AAAB".
 
 
-Me and Valerio:
+**Me and Valerio**:
 
 2)
 Goal
 You will implement two clustering and compare the results you get. You will need to create two datasets and each of them will be filled by data that you scraped.
 
-*Scraping*  <----at the moment we are at this step
+**Scraping**  <----at the moment we are at this step
 
-**NEWS!!!**
+##**NEWS!!!**
 
 I JUST UPLOADED THE FIRST JUPYTER FILE. I AM STARTING WRITING THE CODE FOR SCRAPING, WHAT I WROTE IT'S NOTHING, IT'S JUST TO HAVE A FIRST STEP FILE. FOR THE SCRAPING I FOUND THIS SITE WHICH LOOKS REALLY HELPFUL. I WILL TRY TO USE IT : https://medium.com/@ben.sturm/scraping-house-listing-data-using-selenium-and-beautiful-soup-1cbb94ba9492 
 
