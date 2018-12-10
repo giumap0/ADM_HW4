@@ -7,18 +7,18 @@ The repository contains the following files:
 
 ![House](https://mitcentralcoast.org/wp-content/uploads/2017/01/real-estate-tech.jpg)
 
-In this part we perform the web scraping, we create the datasets and perform the clustering and the comparison among clusters, the file is:
--
+### In this part we perform the web scraping, we create the datasets and perform the clustering and the comparison among clusters, the file is:
+
+*file
 
 
 ## Second Part: hashing function
 
 ![Hashing](http://graphics.cs.kuleuven.be/publications/LD06LPHFPT/teaser.png)
 
-In this part we define the hash function requested
--
+### In this part we define the hash function requested, the file is:
 
-file: Duplicates.ipynb
+*Duplicates.ipynb
 
 
 
