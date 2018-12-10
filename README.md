@@ -1,3 +1,4 @@
+* 
 # ADM_HW4 
 
 This homework is devided in two parts. The first part is about performing a clustering analysis of house announcements in Rome from Immobiliare.it. The second part is about defining a hash function that associates a value to each string given and to check wheter there are some duplicate strings, considering that our definition of duplicate is that the two strings have the same characters.
@@ -9,7 +10,8 @@ The repository contains the following files:
 
 ### In this part we perform the web scraping, we create the datasets and perform the clustering and the comparison among clusters, the file is:
 
-*file
+*houseclustering.ipynb*
+
 
 
 ## Second Part: hashing function
@@ -18,7 +20,7 @@ The repository contains the following files:
 
 ### In this part we define the hash function requested, the file is:
 
-*Duplicates.ipynb
+*Duplicates.ipynb*
 
 
 
